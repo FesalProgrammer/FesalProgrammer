@@ -1,17 +1,19 @@
 ## Hi there 👋
 
-Sobre mi 🙈
+About me 🙈
 
-🎓 Soy Ingeniero Mecánico y Técnico Universitario en Electricidad (aprendiendo web development)
+🎓 I'm Fesal, a Mechanical Engineer and Electrical Technician (learning web development).
 
-🎥 Recientemente he descubierto una nueva pasión por el desarrollo web, en ese sentido, he entrado en un maravilloso proceso de aprendizaje de las tecnologías necesarias para afrontar con éxito los retos asociados a esta emocionante disciplina.
+🎥 I recently discovered a new passion for web development. In that sense, I've embarked on a wonderful learning process of the technologies necessary to successfully face the challenges associated with this exciting discipline..
 
 
-👨🏻‍💻Tecnologías en constante aprendizaje: 
+👨🏻‍💻I'm constantly learning: 
 
 💻Front-End JS
 
 💻Front-End React
+
+💻Back-End Node JS
 
 💻Full Stack Java
 
@@ -20,10 +22,6 @@ Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mysql,git,github,vscode,eclipse,postman)](https://skillicons.dev)
 
-
-🔭 I’m currently working on developing a web e-commerce React front-end...
-
-🌱 I’m currently learning web development...
 
 👯 I’m looking to collaborate on web development projects...
 
