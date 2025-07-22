@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**FesalProgrammer/FesalProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mi 🙈
 
-Here are some ideas to get you started:
+🎓 Soy Ingeniero Mecánico y Técnico Universitario en Electricidad (aprendiendo web development)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎥 Recientemente he descubierto una nueva pasión por el desarrollo web, en ese sentido, he entrado en un maravilloso proceso de aprendizaje de las tecnologías necesarias para afrontar con éxito los retos asociados a esta emocionante disciplina.
+
+
+👨🏻‍💻Tecnologías en constante aprendizaje: 
+
+💻Front-End JS
+
+💻Front-End React
+
+💻Full Stack Java
+
+
+Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mysql,git,github,vscode,eclipse,postman)](https://skillicons.dev)
+
+
+🔭 I’m currently working on developing a web e-commerce React front-end...
+
+🌱 I’m currently learning web development...
+
+👯 I’m looking to collaborate on web development projects...
+
+📫 How to reach me:
+
+📫fesalprogramming@gmail.com
+
+📫www.linkedin.com/in/fesal-la-rosa
+
+😄 Pronouns: he
+
+⚡ Fun fact: I like playing guitar!
+
