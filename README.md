@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-About me 🙈
+I'm Fesal 🙈
 
-🎓 I'm Fesal, a Mechanical Engineer and Electrical Technician (learning web development).
+🎓 I am a Mechanical Engineer and Electrical Technician (learning web development).
 
-🎥 I recently discovered a new passion for web development. In that sense, I've embarked on a wonderful learning process of the technologies necessary to successfully face the challenges associated with this exciting discipline..
+🎥 I recently discovered a new passion for web development. In that sense, I've embarked on a wonderful learning process of the technologies necessary to face the challenges associated with this exciting discipline.
 
 
 👨🏻‍💻I'm constantly learning: 
