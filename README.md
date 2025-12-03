@@ -1,4 +1,4 @@
-![Banner](assets/banner.jpg)
+![Banner](assests/banner.jpg)
 
 🙈 I'm Fesal 
 
