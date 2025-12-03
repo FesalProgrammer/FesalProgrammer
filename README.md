@@ -7,7 +7,7 @@
 🎥 I recently discovered a new passion for web development. In that sense, I've embarked on a wonderful learning process of the technologies necessary to face the challenges associated with this exciting discipline.
 
 
-👨🏻‍💻I'm constantly learning: Front-End JS, Front-End React, Back-End Node JS, Full Stack Java.
+👨🏻‍💻I'm constantly learning: Front-End JS, Front-End React, Back-End Node JS, Full Stack Java, Salesforce Platform Admin I, Salesforce Platform Developer I.
 
 
 Languages and Tools:
